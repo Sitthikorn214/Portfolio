@@ -1,2 +1,1 @@
-# My Portfolio
-# #🧠 I'm currently learning Html css 
+I'm learning about html css js and github
